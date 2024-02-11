@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-brown-500 {
+    background-color: #8B4513; /* This is a shade of brown */
+    /* You can adjust the hexadecimal color code to achieve the shade of brown you desire */
+}

@@ -7,8 +7,7 @@ export default function Home() {
   return (
   <main>
     <Slider />
-    
-    
+   <Featured /> 
   </main>
   )
 }
